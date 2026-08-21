@@ -27,17 +27,18 @@ Part 1 — The Basics
 Answer each question using complete thoughts. You don't need to write an essay.
 
 1. What is your name?
-    >Griffin
+    >**Griffin**
 
 2. What computer science class(es) have you taken before?
-    >Computer science 1 
+    >**Computer science 1** 
 3. What is something you remember learning in computer science last year?
-    >For loops and print
+    >**For loops and print**
  4. What is something from last year that you have mostly forgotten?
->
+    >**If then stuff**
 5. bOutside of school, what are you interested in?
-
+    >**I play a lot of video games**
 6. What is something you're particularly good at — technology related or not?
+    >**I am good at math sometimes**
 
 Part 2 — You and Computer Science
 ---
@@ -45,21 +46,21 @@ Rate Yourself
 
 Using a scale of 1–5, rate your current confidence with each of these:
 
-Programming
+1. Programming
+    >**2.5**
+2. Python
+    >**3.5**
+3. Debugging
 
-Python
+4. GitHub
 
-Debugging
+5. VS Code
 
-GitHub
+6. Working with files and folders
 
-VS Code
+7. Using the terminal
 
-Working with files and folders
-
-Using the terminal
-
-Figuring things out when nobody gives you step-by-step instructions
+8. Figuring things out when nobody gives you step-by-step instructions
 
 Then answer:
 
