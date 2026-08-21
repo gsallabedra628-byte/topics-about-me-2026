@@ -22,23 +22,25 @@ topics-about-me/
 Your README.md will contain your responses to the questions below.
 
 Part 1 — The Basics
+---
 
 Answer each question using complete thoughts. You don't need to write an essay.
 
-What is your name?
+1. What is your name?
+    >Griffin
 
-What computer science class(es) have you taken before?
+2. What computer science class(es) have you taken before?
+    >Computer science 1 
+3. What is something you remember learning in computer science last year?
+    >For loops and print
+ 4. What is something from last year that you have mostly forgotten?
+>
+5. bOutside of school, what are you interested in?
 
-What is something you remember learning in computer science last year?
-
-What is something from last year that you have mostly forgotten?
-
-Outside of school, what are you interested in?
-
-What is something you're particularly good at — technology related or not?
+6. What is something you're particularly good at — technology related or not?
 
 Part 2 — You and Computer Science
-
+---
 Rate Yourself
 
 Using a scale of 1–5, rate your current confidence with each of these:
@@ -66,7 +68,7 @@ Which rating are you most confident about? Why?
 Which rating do you most want to improve this year? Why?
 
 Part 3 — Pick Your Poison
-
+---
 For each pair, bold your choice.
 
 Example:
@@ -96,7 +98,7 @@ Game development or AI
 Cybersecurity or Data Science
 
 Part 4 — Your Technology
-
+---
 Answer the following:
 
 What piece of technology do you use the most?
@@ -116,7 +118,7 @@ What is something computers are currently bad at?
 What is one technology-related issue you think people your age should care about?
 
 Part 5 — Build Something
-
+---
 Imagine I gave you the rest of the semester and said:
 
 Build whatever you want.
@@ -138,7 +140,7 @@ What you would need to learn in order to make it
 Don't worry about whether you currently know how to build it.
 
 Part 6 — Prove You Know Markdown
-
+---
 Your document must contain all of the following:
 
 At least three heading levels
@@ -168,7 +170,7 @@ Do not add these randomly at the bottom of the document.
 Use them naturally throughout your responses.
 
 Part 7 — Your Image
-
+---
 Find an appropriate image representing something you enjoy.
 
 Save the image inside:
@@ -182,7 +184,7 @@ Do not link directly to an image somewhere on the internet.
 The actual image file should exist inside your repository.
 
 Part 8 — Git
-
+---
 You must make at least three commits while completing this assignment.
 
 Do not write:
@@ -204,7 +206,7 @@ Add technology section and formatting
 Add image and finish README
 
 Part 9 — Push to GitHub
-
+---
 Your final repository on GitHub should contain:
 
 topics-about-me/
