@@ -1,5 +1,5 @@
 Who Are You? — GitHub Edition
-
+---
 You've already survived at least one computer science class. Before we get into the real work this year, I want to know a little more about who you are now, what you remember, what you're interested in, and what you want to learn.
 
 At the same time, we're going to make sure your development environment is actually working.
@@ -21,10 +21,10 @@ topics-about-me/
 
 Your README.md will contain your responses to the questions below.
 
-Part 1 — The Basics
----
+# Part 1 — The Basics
 
-Answer each question using complete thoughts. You don't need to write an essay.
+
+## Answer each question using complete thoughts. You don't need to write an essay.
 
 1. What is your name?
     >**Griffin**
@@ -40,8 +40,8 @@ Answer each question using complete thoughts. You don't need to write an essay.
 6. What is something you're particularly good at — technology related or not?
     >**I am good at math sometimes**
 
-Part 2 — You and Computer Science
----
+# Part 2 — You and Computer Science
+
 Rate Yourself
 
 Using a scale of 1–5, rate your current confidence with each of these:
@@ -51,75 +51,90 @@ Using a scale of 1–5, rate your current confidence with each of these:
 2. Python
     >**3.5**
 3. Debugging
-
+    >**2**
 4. GitHub
-
+    >**1**
 5. VS Code
-
+    >**3.5**
 6. Working with files and folders
-
+    >**4**
 7. Using the terminal
-
+    >**2.5**
 8. Figuring things out when nobody gives you step-by-step instructions
-
+    >**2.5**
 Then answer:
 
 Which rating are you most confident about? Why?
 
+    >**working with files and folders, I do a lot of nintendo ds modding**
+
 Which rating do you most want to improve this year? Why?
 
-Part 3 — Pick Your Poison
----
+    >**I wanna get better at not having to follow stuff step by step because I gotta be independent**
+
+# Part 3 — Pick Your Poison
+
 For each pair, bold your choice.
 
 Example:
 
-Python or Java
+***Python*** or ~~Java~~
 
-Choose one:
 
-Python or Java
+~~Mac~~ or ***PC***
 
-Mac or PC
 
-GUI or Command Line
+~~GUI~~ or ***Command Line***
+
 
 Build something useful or build something ridiculous
 
+>**something ridiculus**
+
 Work alone or work with a team
 
-Hardware or Software
+>**team**
 
-Fix a bug or start over
+***Hardware*** or ~~Software~~
 
-Google it or figure it out yourself
+***Fix a bug*** or ~~start over~~
 
-Game development or AI
+~~Google it~~ or ***figure it out yourself***
 
-Cybersecurity or Data Science
 
-Part 4 — Your Technology
----
-Answer the following:
+***Game development*** or ~~AI~~
+
+***Cybersecurity*** or ~~Data Science~~
+
+# Part 4 — Your Technology
+
+Answer the following, Your answer can be hardware, software, an app, a website, a device, etc:
 
 What piece of technology do you use the most?
+>**my DS**
 
-Your answer can be hardware, software, an app, a website, a device, etc.
 
 What technology do you think is overrated?
+>**Phones**
 
 Explain.
 
-What technology do you wish existed?
+>**Scrolling is not all that fun bro**
 
-It can be realistic or completely ridiculous.
+What technology do you wish existed? It can be realistic or completely ridiculous.
+
+>**minimaps built into glasses**
 
 What is something computers are currently bad at?
 
+>**flying**
+
 What is one technology-related issue you think people your age should care about?
 
-Part 5 — Build Something
----
+>**having your address leaked is kinda annoying**
+
+# Part 5 — Build Something
+
 Imagine I gave you the rest of the semester and said:
 
 Build whatever you want.
@@ -128,50 +143,56 @@ You have access to computers, the internet, programming tools, and reasonable sc
 
 What would you build?
 
+>**I would try to build a somewhat functional platforme game**
+
 Describe:
 
 What it would do
 
+>**provide entertainment**
+
 Who would use it
+
+>**people who enjoy platformers might like it**
 
 Why you would want to build it
 
+>**to get better at coding**
+
 What you would need to learn in order to make it
+
+>**better python and a little bit of art**
 
 Don't worry about whether you currently know how to build it.
 
-Part 6 — Prove You Know Markdown
----
+# Part 6 — Prove You Know Markdown
+
 Your document must contain all of the following:
 
-At least three heading levels
+* At least three heading levels
 
-Bold text
+* Bold text
 
-Italic text
+* Italic text
 
-A bulleted list
+* A bulleted list
 
-A numbered list
+* A numbered list
 
-A blockquote
+* A blockquote
 
-inline code
+* A link
 
-A code block
+* An image
 
-A link
-
-An image
-
-A horizontal rule
+* A horizontal rule
 
 Do not add these randomly at the bottom of the document.
 
 Use them naturally throughout your responses.
 
-Part 7 — Your Image
----
+# Part 7 — Your Image
+
 Find an appropriate image representing something you enjoy.
 
 Save the image inside:
@@ -180,23 +201,25 @@ images/
 
 Then display it in your README using Markdown.
 
+![](images/images.jpeg)
+
 Do not link directly to an image somewhere on the internet.
 
 The actual image file should exist inside your repository.
 
-Part 8 — Git
----
-You must make at least three commits while completing this assignment.
+# Part 8 — Git
+
+### You must make at least three commits while completing this assignment.
 
 Do not write:
 
-stuff
+* stuff
 
-changes
+* changes
 
-update
+* update
 
-asdf
+* asdf
 
 Use commit messages that actually describe what you did.
 
@@ -206,8 +229,8 @@ Add initial questionnaire responses
 Add technology section and formatting
 Add image and finish README
 
-Part 9 — Push to GitHub
----
+# Part 9 — Push to GitHub
+
 Your final repository on GitHub should contain:
 
 topics-about-me/
